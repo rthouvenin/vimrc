@@ -1,4 +1,3 @@
-set term=xterm-256color
 colorscheme monokai
 set hlsearch
 set incsearch
